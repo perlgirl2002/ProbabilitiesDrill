@@ -1,0 +1,5 @@
+Monty Hall problem
+
+I get it.  3 doors, 2 goats, and a car.
+
+Switching your answer after the host reveals a goat will give you higher probability of finding the car b/c opening the door to the goat offers no new information about your original choice, thus giving you still a 1/3 chance of the car while the other non-opened door now has a 2/3 chance.
